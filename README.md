@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there, I'm @Weihl 👋👋👋.
 
 <!--
 **Weihltech/Weihltech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra "![Github Stats")](https://github.com/anuraghazra/github-readme-stats)
+
