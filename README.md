@@ -1,4 +1,5 @@
 
+![Weih](assets/images/header.png)
 
 <p>
   <h1 align="center">
@@ -12,11 +13,11 @@
 
 <p align="center">
   <a href="https://github.com/Weihltech">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Weihltech&custom_title=GitHub%20Stats&show_icons=true&theme=dark&count_private=true&include_all_commits=true" />
+    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Weihltech&custom_title=GitHub%20Stats&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true" />
   </a>
 </p>
 
------
+
 <p align="center">
   
   <a href="https://github.com/Weihltech">
